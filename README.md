@@ -1,5 +1,5 @@
 # High NA single-objective lightsheet
-<a href="https://doi.org/10.5281/zenodo.3244420"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3244420.svg" alt="DOI"></a>
+<a href="https://doi.org/10.5281/zenodo.3244420"><img src="https://img.shields.io/badge/DOI-10.5281/zenodo.3244420-blue.svg" alt="DOI"></a>
 
 A scientific publication that describes a way to improve microscopy. This repository hosts everything you need to reproduce our results. Read the publication here:
 https://andrewgyork.github.io/high_na_single_objective_lightsheet (hosted via Andrew York's personal GitHub account)
